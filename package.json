@@ -1,0 +1,26 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimkahramann/pcat.git"
+  },
+  "keywords": [
+    "photo",
+    "app"
+  ],
+  "author": "ibrahim kahraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimkahramann/pcat/issues"
+  },
+  "homepage": "https://github.com/ibrahimkahramann/pcat#readme",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
