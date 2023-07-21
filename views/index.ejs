@@ -132,8 +132,8 @@
     </script>
     <script> 
         const targetElement = document.querySelector('#content');
-        let contenScrollValue = '<%- contentScroll %>';
-        if(JSON.parse(contenScrollValue)){
+        let contentScrollValue = '<%- contentScroll %>';
+        if(JSON.parse(contentScrollValue)){
         targetElement.scrollIntoView({ behavior: 'smooth' });
         }
     </script> 
